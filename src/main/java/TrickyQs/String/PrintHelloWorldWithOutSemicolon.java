@@ -1,4 +1,4 @@
-package TrickyQs;
+package TrickyQs.String;
 
 public class PrintHelloWorldWithOutSemicolon {
     // Print hello without a semicolon  (;)

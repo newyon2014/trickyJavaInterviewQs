@@ -1,4 +1,4 @@
-package TrickyQs;
+package TrickyQs.String;
 
 public class ExecuteComments {
     // \u000d //--> unicode carriage return

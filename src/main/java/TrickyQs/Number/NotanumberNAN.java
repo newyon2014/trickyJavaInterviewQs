@@ -1,4 +1,4 @@
-package TrickyQs;
+package TrickyQs.Number;
 
 public class NotanumberNAN {
 

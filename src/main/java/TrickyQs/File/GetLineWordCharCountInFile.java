@@ -1,4 +1,4 @@
-package TrickyQs;
+package TrickyQs.File;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
