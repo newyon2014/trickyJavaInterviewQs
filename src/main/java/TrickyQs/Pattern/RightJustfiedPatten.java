@@ -17,11 +17,7 @@ public class RightJustfiedPatten {
             for (int k = 1; k <= i; k++) { // --> k to track the stars
                 System.out.print("*");
         }
-
             System.out.println();
-
-
-
         }
     }
 }
